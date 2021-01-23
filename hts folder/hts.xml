@@ -1,0 +1,9 @@
+<service>
+    <id>hts-service</id>
+    <name>HTS Service</name>
+    <description>HTS Service</description>
+    <logmode>rotate</logmode>
+    <executable>java</executable>
+	<arguments>-Xmx256m -jar "Hts-1.0.1.jar"</arguments>
+    <startargument>-jar</startargument>
+</service>

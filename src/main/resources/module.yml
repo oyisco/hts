@@ -1,0 +1,4 @@
+basePackage: org.fhi360.module.Hts
+name: LAMISHtsModule
+dependencies: {LamisLegacyModule: 1.0.0}
+store: true

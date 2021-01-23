@@ -1,0 +1,30 @@
+###spring:
+###  datasource:
+###    driverClassName: com.mysql.jdbc.Driver
+###    url: jdbc:mysql://10.2.141.61:3306/lamis
+###    username: lamis
+###    password: L@m1sS3Rv3rUs3R32!
+##
+#spring:
+#  datasource:
+#    driverClassName: org.postgresql.Driver
+#    url: jdbc:postgresql://localhost/lamisplus?autoReconnect=true
+#    username: postgres
+#    password: L@m1s4dm1n!23
+#    #L@m1s4dm1n!23
+#    #L@m1s4dm1n!23
+#
+#  jpa:
+#    hibernate:
+#      use-new-id-generator-mappings: false
+#
+#
+#logging:
+#  file:
+#    name: app.log
+##
+##server:
+##  port: 8080
+#
+#
+#
